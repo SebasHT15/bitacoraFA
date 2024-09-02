@@ -1,0 +1,2 @@
+Sábado 31 de agosto
+Con la implementación de los circuitos combinacionales finalizada, procedimos a la siguiente etapa del proyecto, que consistió en añadir el BCD, el registro, el botón y el display de 7 segmentos. Sin embargo, a pesar de nuestros esfuerzos, no obtuvimos los resultados esperados, ya que el circuito no funcionó como se había planificado.

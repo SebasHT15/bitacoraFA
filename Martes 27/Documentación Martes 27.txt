@@ -1,0 +1,3 @@
+Martes 27 de agosto
+Iniciamos simulando un circuito de 4 bits, cuyo propósito era representar los dedos en un sistema específico. Posteriormente, construimos la tabla de verdad correspondiente, utilizando las entradas Y0, Y1, E y F. Las salidas obtenidas fueron s0 y s1. Con la tabla de verdad establecida, procedimos a desarrollar los mapas de Karnaugh para simplificar las expresiones lógicas. Después de validar que la tabla de verdad simplificada coincidiera con la original, diseñamos los circuitos combinacionales necesarios para implementar las funciones obtenidas.
+
