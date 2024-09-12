@@ -1,0 +1,1 @@
+Este dia se empezo a armar el circuito de las fotoresistencias y leds. El funcionamiento es simple, se utilizo un Bjt NPN, el cual el emisor esta a tierra, la fotoresistencia entre base y emisor, la patilla negativa del led en el colector y la positiva en la corriente. 
